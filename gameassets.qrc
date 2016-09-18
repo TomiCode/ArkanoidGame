@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/game">
+        <file>assets/paddleBlu.png</file>
+        <file>assets/ballBlue.png</file>
+        <file>assets/blockGrey.png</file>
+    </qresource>
+</RCC>
